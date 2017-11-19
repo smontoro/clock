@@ -5,5 +5,10 @@
 #main {
 	margin-top: 200px;
 	font-size: 100px;
-	font-family: 'Vollkorn SC', serif;
+	font-family: 'Merriweather', serif;
+	text-transform: lowercase;
+}
+
+.ampm {
+font-size: 9px;
 }
