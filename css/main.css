@@ -1,0 +1,9 @@
+.body {
+	background-color: tomato;
+}
+
+#main {
+	margin-top: 200px;
+	font-size: 100px;
+	font-family: 'Vollkorn SC', serif;
+}
