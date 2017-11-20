@@ -20,7 +20,7 @@ function showTime() {
 	}
 
 
-	document.getElementById("main").textContent = hours + ":" + minutes + ":" + seconds
+	document.getElementById("main").textContent = hours + ":" + minutes + ":" + seconds.toLowerCase()
 
 	//what's this extra function for?
 	setTimeout(function () {
